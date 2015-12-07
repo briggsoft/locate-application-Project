@@ -1,0 +1,10 @@
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\bin\Debug\locate.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\bin\Debug\locate.pdb
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\bin\Debug\locate.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\locate.Form1.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\locate.Resources.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\locate.vbproj.GenerateResource.Cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\locate.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\locate.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\locate\obj\Debug\locate.pdb
